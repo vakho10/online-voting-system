@@ -1,6 +1,7 @@
 package ge.edu.sangu.online_voting_system;
 
 import ge.edu.sangu.online_voting_system.exception.NoVoterFoundException;
+import ge.edu.sangu.online_voting_system.exception.VotingException;
 import ge.edu.sangu.online_voting_system.impl.OnlineVotingSystem;
 import ge.edu.sangu.online_voting_system.model.Gender;
 import ge.edu.sangu.online_voting_system.model.Race;
@@ -27,7 +28,7 @@ public class Main {
             final int randomCandidateIndex = rnd.nextInt(candidates.size());
             try {
                 votingSystem.vote(voterKey, candidates.get(randomCandidateIndex));
-            } catch (NoVoterFoundException e) {
+            } catch (VotingException e) {
                 System.out.println("Oh lord! (X_x)");
                 e.printStackTrace();
                 System.exit(-1); // Kill this hideous application!
@@ -59,9 +60,9 @@ public class Main {
                 }
             }
             if (rnd.nextInt(2) == 0) {
-                voters.add(new Person("Girly_" + i, "Surname_" + i, 16 + rnd.nextInt(50), Gender.FEMALE, race));
+                voters.add(new Person("Girly_" + i, "Surname_" + i, 18 + rnd.nextInt(50), Gender.FEMALE, race));
             } else {
-                voters.add(new Person("Manly_" + i, "Surname_" + i, 16 + rnd.nextInt(50), Gender.MALE, race));
+                voters.add(new Person("Manly_" + i, "Surname_" + i, 18 + rnd.nextInt(50), Gender.MALE, race));
             }
         }
         return voters;

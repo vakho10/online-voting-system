@@ -2,5 +2,8 @@ package ge.edu.sangu.online_voting_system.exception;
 
 public class AlreadyVotedException extends VotingException {
 
-    // TODO Should have message "Voter with voterKey: ${voterKey} has already voted! Call the cops :|"
+    // XXX Should have message "Voter with voterKey: ${voterKey} has already voted! Call the cops :|"
+    public AlreadyVotedException(String voterKey) {
+        super("Voter with voterKey: " + voterKey + " has already voted! Call the cops :|");
+    }
 }

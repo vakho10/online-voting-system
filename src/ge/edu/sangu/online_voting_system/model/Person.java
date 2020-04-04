@@ -58,4 +58,15 @@ public class Person {
     public void setRace(Race race) {
         this.race = race;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", age=" + age +
+                ", gender=" + gender +
+                ", race=" + race +
+                '}';
+    }
 }
