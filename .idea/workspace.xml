@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3c8077b-b1ba-4bc8-801b-a8f0ae1172c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwJ4jOpYe7ullbuKcB2egkli4f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ge.edu.sangu.online_voting_system.exception" />
+      <recent name="ge.edu.sangu.online_voting_system.api" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3c8077b-b1ba-4bc8-801b-a8f0ae1172c8" name="Default Changelist" comment="" />
+      <created>1585744033210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585744033210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1585747049930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585747049930" />
+    <state x="565" y="197" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585745899284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="197" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585745899284" />
+    <state x="592" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585747614655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585747614655" />
+    <state x="565" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585747633851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585747633851" />
+    <state x="608" y="186" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585744983758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="608" y="186" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1585744983758" />
+    <state x="524" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1585981225347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="264" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585981225347" />
+  </component>
+</project>
